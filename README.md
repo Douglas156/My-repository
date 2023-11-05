@@ -10,3 +10,5 @@ O primeiro desafio é aplicação do **Método Twist** para codificação e deco
 ## batata segunda mudança no repositório2
 
 * comando git push1
+
+* alteração pra teste pull
